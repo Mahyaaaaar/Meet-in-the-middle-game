@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Meet in the middle game board.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  game.c
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(196): warning C4101: 'x': unreferenced local variable
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(542): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(543): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(544): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(545): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(557): warning C4098: 'corridors': 'void' function returning a value
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(567): warning C4098: 'corridors': 'void' function returning a value
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(830): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(830): warning C4024: 'corridors': different types for formal and actual parameter 1
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(223): warning C4716: 'corrcoordinate': must return a value
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(478): warning C4715: 'closethedoor': not all control paths return a value
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(524): warning C4715: 'limiter': not all control paths return a value
+c:\users\mahyar mohamammadyar\documents\visual studio 2015\projects\meet in the middle game board\meet in the middle game board\game.c(546): warning C4715: 'turn_to_pl_name': not all control paths return a value
+  Meet in the middle game board.vcxproj -> C:\Users\Mahyar Mohamammadyar\Documents\Visual Studio 2015\Projects\Meet in the middle game board\Debug\Meet in the middle game.exe
+  Meet in the middle game board.vcxproj -> C:\Users\Mahyar Mohamammadyar\Documents\Visual Studio 2015\Projects\Meet in the middle game board\Debug\Meet in the middle game.pdb (Partial PDB)
